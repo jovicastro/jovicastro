@@ -1,6 +1,6 @@
 # Hi, I'm João Vitor Castro!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratatosk123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovicastro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🛠️ **Tech Stack**  
   - Java • Spring Boot  
